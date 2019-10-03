@@ -42,4 +42,14 @@
         "resume_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
         "personal_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/"
     }
+    {
+        "name": "سید علی صحفی",
+        "skills" : [
+            "Javascript",
+            "jQuery",
+            "Vue"
+        ],
+        "work_at" : "باسلام",
+        "resume_url" : "https://www.linkedin.com/in/s-ali-sohofi",
+    }
 ]
