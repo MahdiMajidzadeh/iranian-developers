@@ -9,5 +9,16 @@
         "work_at" : "باسلام",
         "resume_url" : "https://atbox.io/mahdimajidzadeh/resume",
         "personal_url" : "https://mahdi.majidzadeh.ir/"
+    },
+    {
+        "name": "مصطفی نصیری",
+        "skills" : [
+            "Java",
+            "Kotlin",
+            "Android"
+        ],
+        "work_at" : "باسلام",
+        "resume_url" : "https://www.linkedin.com/in/mostafanasiri/",
+        "personal_url" : "https://www.linkedin.com/in/mostafanasiri/"
     }
 ]
