@@ -1,55 +1,55 @@
 [
     {
         "name": "مهدی مجیدزاده",
-        "skills" : [
+        "skills": [
             "php",
             "jQuery",
             "graphql"
         ],
-        "work_at" : "باسلام",
-        "resume_url" : "https://atbox.io/mahdimajidzadeh/resume",
-        "personal_url" : "https://mahdi.majidzadeh.ir/"
+        "work_at": "باسلام",
+        "resume_url": "https://atbox.io/mahdimajidzadeh/resume",
+        "personal_url": "https://mahdi.majidzadeh.ir/"
     },
     {
         "name": "علی سلطانی",
-        "skills" : [
+        "skills": [
             "php",
             "javascript"
         ],
-        "work_at" : "باسلام",
-        "resume_url" : "https://www.linkedin.com/in/soltanipoor/",
-        "personal_url" : "https://www.linkedin.com/in/soltanipoor/"
+        "work_at": "باسلام",
+        "resume_url": "https://www.linkedin.com/in/soltanipoor/",
+        "personal_url": "https://www.linkedin.com/in/soltanipoor/"
     },
-  {
+    {
         "name": "مصطفی نصیری",
-        "skills" : [
+        "skills": [
             "Java",
             "Kotlin",
             "Android"
         ],
-        "work_at" : "باسلام",
-        "resume_url" : "https://www.linkedin.com/in/mostafanasiri/",
-        "personal_url" : "https://www.linkedin.com/in/mostafanasiri/"
+        "work_at": "باسلام",
+        "resume_url": "https://www.linkedin.com/in/mostafanasiri/",
+        "personal_url": "https://www.linkedin.com/in/mostafanasiri/"
     },
-        {
+    {
         "name": "سعید جعفری",
-        "skills" : [
+        "skills": [
             "php",
             "jQuery",
             "graphql"
         ],
-        "work_at" : "باسلام",
-        "resume_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
-        "personal_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/"
+        "work_at": "باسلام",
+        "resume_url": "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
+        "personal_url": "https://www.linkedin.com/in/saeid-jafari-564b7b189/"
     },
     {
         "name": "سید علی صحفی",
-        "skills" : [
+        "skills": [
             "Javascript",
             "jQuery",
             "Vue"
         ],
-        "work_at" : "باسلام",
-        "resume_url" : "https://www.linkedin.com/in/s-ali-sohofi",
+        "work_at": "باسلام",
+        "resume_url": "https://www.linkedin.com/in/s-ali-sohofi",
     }
 ]
