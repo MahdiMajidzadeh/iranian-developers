@@ -52,5 +52,16 @@
         "work_at": "باسلام",
         "resume_url": "https://www.linkedin.com/in/s-ali-sohofi",
         "personal_url": ""
+    },
+    {
+        "name": "محمد جواد قاسمی",
+        "skills": [
+            "Javascript",
+            "Node.js",
+            "C#"
+        ],
+        "work_at": "خانه",
+        "resume_url": "https://github.com/geeksesi",
+        "personal_url": "https://github.com/geeksesi"
     }
 ]
