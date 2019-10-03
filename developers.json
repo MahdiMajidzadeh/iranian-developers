@@ -20,5 +20,16 @@
         "work_at" : "باسلام",
         "resume_url" : "https://www.linkedin.com/in/mostafanasiri/",
         "personal_url" : "https://www.linkedin.com/in/mostafanasiri/"
+    },
+        {
+        "name": "سعید جعفری",
+        "skills" : [
+            "php",
+            "jQuery",
+            "graphql"
+        ],
+        "work_at" : "باسلام",
+        "resume_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
+        "personal_url" : "https://www.linkedin.com/in/saeid-jafari-564b7b189/"
     }
 ]
