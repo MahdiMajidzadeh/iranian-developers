@@ -1,12 +1,12 @@
 [
     {
-        "name": "Mahdi Majidzadeh",
+        "name": "مهدی مجیدزاده",
         "skills" : [
             "php",
             "jQuery",
             "graphql"
         ],
-        "work at" : "Basalam",
+        "work at" : "باسلام",
         "resume_url" : "https://atbox.io/mahdimajidzadeh/resume",
         "personal_url" : "https://mahdi.majidzadeh.ir/"
     }
