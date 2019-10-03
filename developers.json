@@ -9,5 +9,14 @@
         "work_at" : "باسلام",
         "resume_url" : "https://atbox.io/mahdimajidzadeh/resume",
         "personal_url" : "https://mahdi.majidzadeh.ir/"
+    },
+    {
+        "name": "علی سلطانی",
+        "skills" : [
+            "php",
+            "javascript"
+        ],
+        "work_at" : "باسلام",
+        "resume_url" : "https://www.linkedin.com/in/soltanipoor/"
     }
 ]
