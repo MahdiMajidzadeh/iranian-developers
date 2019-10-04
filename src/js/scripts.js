@@ -4,7 +4,7 @@ $.getJSON("developers.json", function (json) {
         // console.log(item.github_username);
 
         let avatar = "https://avatars2.githubusercontent.com/u/16510392?v=4";
-        if (item.github_username.lenth = 0) {
+        if (item.github_username.length = 0) {
             avatar = "https://avatars2.githubusercontent.com/u/16510392?v=4";
             not_github_count++;
             item.github_username = "NOT_" + not_github_count;
@@ -19,22 +19,32 @@ $.getJSON("developers.json", function (json) {
                 .catch(err => console.log(err));
         }
 
-        if (item.resume_url.lenth = 0) {
+        if (item.resume_url.length === 0) {
             item.resume_url = "#";
         }
 
-        if (item.personal_url.lenth = 0) {
+        if (item.personal_url.length === 0) {
             item.personal_url = "#";
         }
 
+        let lastSkill = '';
+
+        if (item.skills.length > 1) {
+            lastSkill = ' و <span class="text-info">' + item.skills.pop() + '</span>';
+        }
+
         $('\
-        <div class="col-md-4">\
+        <div class="col-sm-6 col-md-4 col-xl-3">\
         <img id="AV'+ item.github_username + '" class="card-img-top" src="' + avatar + '"\
             alt="Card image cap">\
         <div class="card mb-4 shadow-sm">\
             <div class="card-body">\
                 <h3 class="mb-3">' + item.name + '</h3>\
-                <p class="card-text">در' + item.work_at + ' کار می کند و در ' + item.skills.join(' ') + ' مهارت دارد.</p>\
+                 <p class="card-text">\
+                    در ' + item.work_at + ' کار می کند، در \
+                    <span class="text-info">' + item.skills.join('</span> ،<span class="text-info">') + '</span>\
+                    ' + lastSkill + ' مهارت دارد.\
+                </p>\
                 <div class="d-flex justify-content-between align-items-center">\
                     <div class="btn-group">\
                         <a href="'+ item.resume_url + '"class="btn btn-sm btn-outline-secondary">رزومه</a>\
