@@ -19,11 +19,11 @@ $.getJSON("developers.json", function (json) {
                 .catch(err => console.log(err));
         }
 
-        if (item.resume_url.length = 0) {
+        if (item.resume_url.length === 0) {
             item.resume_url = "#";
         }
 
-        if (item.personal_url.length = 0) {
+        if (item.personal_url.length === 0) {
             item.personal_url = "#";
         }
 
