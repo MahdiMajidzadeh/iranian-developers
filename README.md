@@ -28,7 +28,7 @@ fallow this steps to add your name to lists:
     
 ```
 
-notice: all feilds are required.
+notice: all fields are required.
 
 4 - reate your pull request.
 
