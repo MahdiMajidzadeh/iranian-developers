@@ -8,7 +8,8 @@
         ],
         "work_at": "باسلام",
         "resume_url": "https://atbox.io/mahdimajidzadeh/resume",
-        "personal_url": "https://mahdi.majidzadeh.ir/"
+        "personal_url": "https://mahdi.majidzadeh.ir/",
+        "github_username": "MahdiMajidzadeh"
     },
     {
         "name": "علی سلطانی",
@@ -18,7 +19,8 @@
         ],
         "work_at": "باسلام",
         "resume_url": "https://www.linkedin.com/in/soltanipoor/",
-        "personal_url": "https://www.linkedin.com/in/soltanipoor/"
+        "personal_url": "https://www.linkedin.com/in/soltanipoor/",
+        "github_username": "soltanipoor"
     },
     {
         "name": "مصطفی نصیری",
@@ -29,7 +31,8 @@
         ],
         "work_at": "باسلام",
         "resume_url": "https://www.linkedin.com/in/mostafanasiri/",
-        "personal_url": "https://www.linkedin.com/in/mostafanasiri/"
+        "personal_url": "https://www.linkedin.com/in/mostafanasiri/",
+        "github_username": "MostafaNasiri"
     },
     {
         "name": "سعید جعفری",
@@ -40,7 +43,8 @@
         ],
         "work_at": "باسلام",
         "resume_url": "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
-        "personal_url": "https://www.linkedin.com/in/saeid-jafari-564b7b189/"
+        "personal_url": "https://www.linkedin.com/in/saeid-jafari-564b7b189/",
+        "github_username": "saeid94dev"
     },
     {
         "name": "سید علی صحفی",
@@ -51,5 +55,19 @@
         ],
         "work_at": "باسلام",
         "resume_url": "https://www.linkedin.com/in/s-ali-sohofi",
+        "personal_url": "",
+        "github_username": "S-sohofi"
+    },
+    {
+        "name": "محمد جواد قاسمی",
+        "skills": [
+            "Javascript",
+            "Node.js",
+            "C#"
+        ],
+        "work_at": "خانه",
+        "resume_url": "https://github.com/geeksesi",
+        "personal_url": "https://github.com/geeksesi",
+        "github_username": "geeksesi"
     }
 ]
