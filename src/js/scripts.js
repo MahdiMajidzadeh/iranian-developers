@@ -34,7 +34,7 @@ $.getJSON("developers.json", function (json) {
         <div class="card mb-4 shadow-sm">\
             <div class="card-body">\
                 <h3 class="mb-3">' + item.name + '</h3>\
-                <p class="card-text">در' + item.work_at + ' کار می کند و در مهارت دارد.</p>\
+                <p class="card-text">در' + item.work_at + ' کار می کند و در ' + item.skills.join(' ') + ' مهارت دارد.</p>\
                 <div class="d-flex justify-content-between align-items-center">\
                     <div class="btn-group">\
                         <a href="'+ item.resume_url + '"class="btn btn-sm btn-outline-secondary">رزومه</a>\
