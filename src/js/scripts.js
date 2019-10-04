@@ -34,7 +34,7 @@ $.getJSON("developers.json", function (json) {
         }
 
         $('\
-        <div class="col-md-4">\
+        <div class="col-sm-6 col-md-4 col-xl-3">\
         <img id="AV'+ item.github_username + '" class="card-img-top" src="' + avatar + '"\
             alt="Card image cap">\
         <div class="card mb-4 shadow-sm">\
