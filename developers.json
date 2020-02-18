@@ -82,5 +82,24 @@
         "resume_url": "https://www.linkedin.com/in/mohammad-babaei-600106150/",
         "personal_url": "https://www.linkedin.com/in/mohammad-babaei-600106150/",
         "github_username": "MohammadBabaeiTB"
+    },
+	{
+        "name": "فرید کرمی",
+        "skills": [
+            "JavaScript",
+            "NodeJS",
+            "ReactJS",
+	    "ReactNative",
+	    "Nest",
+	    "Angular",
+	    "MicroService",
+	    "DDD and TDD"
+        ],
+        "work_at": "Frelance",
+        "resume_url": "https://www.linkedin.com/in/faridkarami/",
+        "personal_url": "https//www.fk8.ir",
+        "github_username": "FaridKarami"
     }
+
+
 ]
