@@ -30,7 +30,7 @@ fallow this steps to add your name to lists:
 
 notice: all fields are required.
 
-4 - reate your pull request.
+4 - Send your pull request.
 
 5 - Star my repository is welcomed.
 
