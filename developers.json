@@ -99,6 +99,18 @@
         "resume_url": "https://www.linkedin.com/in/faridkarami/",
         "personal_url": "https//www.fk8.ir",
         "github_username": "FaridKarami"
+    },
+    {
+        "name": "مهدی خوشنویس‌زاده",
+        "skills": [
+            "JavaScript",
+            "Vue",
+            "Sass"
+        ],
+        "work_at": "باسلام",
+        "resume_url": "https://www.linkedin.com/in/mehdi-khoshnevisz/",
+        "personal_url": "http://mehdi-khoshnevisz.ir/",
+        "github_username": "MehdiKhoshnevisz"
     }
 
 
